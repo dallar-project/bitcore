@@ -36,10 +36,11 @@
     "url": "https://github.com/dallar-project/bitcore.git"
   },
   "dependencies": {
-    "bitcore-lib": "../bitcore-lib",
-    "bitcore-node": "5.0.0-beta.44",
-    "insight-api": "../insight-api",
-    "insight-ui": "../insight"
+    "bitcore-lib": "dallar-project/bitcore-lib",
+    "bitcore-node": "dallar-project/bitcore-node",
+    "insight-api": "dallar-project/insight-api",
+    "insight-ui": "dallar-project/insight",
+    "node-throestl-hash": "dallar-project/node-throestl-hash"
   },
   "license": "MIT",
   "devDependencies": {
